@@ -54,3 +54,5 @@ permalink: /Single_Cell/
 [https://www.ncbi.nlm.nih.gov/pubmed/28991892](https://www.ncbi.nlm.nih.gov/pubmed/28991892)
 
    >We present SCENIC, a computational method for simultaneous gene regulatory network reconstruction and cell-state identification from single-cell RNA-seq data (http://scenic.aertslab.org). On a compendium of single-cell data from tumors and brain, we demonstrate that cis-regulatory analysis can be exploited to guide the identification of transcription factors and cell states. SCENIC provides critical biological insights into the mechanisms driving cellular heterogeneity.
+   
+1. Stuart T, Butler A, Hoffman P, Hafemeister C, Papalexi E, Mauck WM 3rd, Hao Y, Stoeckius M, Smibert P, Satija R. Comprehensive Integration of Single-Cell Data. Cell. 2019 Jun 13;177(7):1888-1902.e21. [https://www.ncbi.nlm.nih.gov/pubmed/31178118](https://www.ncbi.nlm.nih.gov/pubmed/31178118)
